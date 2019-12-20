@@ -161,6 +161,19 @@ header ul li ul li {
 }
 
 /****** om slut ******/
+/****** REDESIGN ******/
+
+
+#redesign a {
+    align-content: center;
+    text-align: center;
+    color: #52453c;
+}
+
+#redesign a h1 {
+    font-size: 4rem;
+}
+
 
 /*------ CONTACT ------*/
 
@@ -321,6 +334,17 @@ header ul li ul li {
 
 #wireframe img {
     flex-basis: 300px;
+    flex-grow: 1;
+}
+
+#forefter .sectionwrapper {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+#forefter .billed {
+    flex-basis: 200px;
     flex-grow: 1;
 }
 
