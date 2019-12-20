@@ -513,3 +513,25 @@ header ul li ul li {
         column-count: 4;
     }
 }
+
+
+/*----- Pitch-----*/
+#feedback ul {
+    list-style: square;
+}
+
+#feedback .sectionwrapper {
+    display: flex;
+    flex: wrap;
+    padding-top: 4rem;
+}
+
+#feedback .col_inden {
+    flex-basis: 1;
+    flex-grow: 300px;
+}
+
+#feedback .col_efter {
+    flex-basis: 1;
+    flex-grow: 300px;
+}
