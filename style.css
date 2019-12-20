@@ -151,8 +151,13 @@ header ul li ul li {
 }
 
 #om .col {
-    flex-basis: 600px;
+    flex-basis: 400px;
     flex-grow: 1;
+}
+
+#om .col a {
+    align-content: center;
+    text-align: center;
 }
 
 /****** om slut ******/
@@ -420,6 +425,17 @@ header ul li ul li {
     justify-content: space-between;
 
 }
+
+
+/***deliver- test side****/
+
+#bert img {
+    width: 50%;
+}
+
+/***deliver- test side slut****/
+
+
 
 #gallery body {
     font-family: sans-serif;
