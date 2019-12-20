@@ -469,6 +469,11 @@ header ul li ul li {
     max-width: 100%;
 }
 
+#kode_billeder img {
+    width: 80%;
+
+}
+
 @media only screen and (max-width: 320px) {
     .masonry {
         -moz-column-count: 1;
